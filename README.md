@@ -2,7 +2,7 @@
 
 # Bananeiras - A Importância das Bananeiras para a Natureza
 
-![Banana](https://img.freepik.com/fotos-premium/bananeira-com-bananas-em-um-jardim-no-rio-de-janeiro-brasil_63139-1586.jpg?w=2000)
+![Banana]([https://img.freepik.com/fotos-premium/bananeira-com-bananas-em-um-jardim-no-rio-de-janeiro-brasil_63139-1586.jpg?w=2000](https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=NmFkOWihH5TQxR4hE2iZZwleSFNsCGqwIiUfOP9uladwY3uIKR73fGkb60Qvuu9uAUvNcqfqKamPg9nxfKGkNkjPc6PuVJ7EKzaCJqAkz9nCpcs=))
 
 ## Sobre o Projeto
 Este projeto é um site simples que destaca a importância das bananeiras para a natureza. Ele inclui um login personalizado, onde o usuário pode acessar com o username "22@" e senha "123", e ao fazer o login, será direcionado para uma galeria de imagens de bananeiras.
@@ -10,7 +10,7 @@ Este projeto é um site simples que destaca a importância das bananeiras para a
 ## Como Usar
 Para utilizar o projeto, siga os passos abaixo:
 
-1. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/seu-usuario/bananeiras.git`.
+1. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/Costanza22/bananeiras.git`.
 2. Navegue até o diretório do projeto usando o comando `cd bananeiras`.
 3. Abra o arquivo "index.html" no seu navegador.
 4. No formulário de login, digite o username "22@" e a senha "123" para fazer o login.
