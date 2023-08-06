@@ -2,7 +2,7 @@
 
 # Bananeiras - A Importância das Bananeiras para a Natureza
 
-![Banana]([https://img.freepik.com/fotos-premium/bananeira-com-bananas-em-um-jardim-no-rio-de-janeiro-brasil_63139-1586.jpg?w=2000](https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=NmFkOWihH5TQxR4hE2iZZwleSFNsCGqwIiUfOP9uladwY3uIKR73fGkb60Qvuu9uAUvNcqfqKamPg9nxfKGkNkjPc6PuVJ7EKzaCJqAkz9nCpcs=))
+![Banana](https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=NmFkOWihH5TQxR4hE2iZZwleSFNsCGqwIiUfOP9uladwY3uIKR73fGkb60Qvuu9uAUvNcqfqKamPg9nxfKGkNkjPc6PuVJ7EKzaCJqAkz9nCpcs=)
 
 ## Sobre o Projeto
 Este projeto é um site simples que destaca a importância das bananeiras para a natureza. Ele inclui um login personalizado, onde o usuário pode acessar com o username "22@" e senha "123", e ao fazer o login, será direcionado para uma galeria de imagens de bananeiras.
