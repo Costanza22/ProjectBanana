@@ -38,9 +38,9 @@ Espero que este projeto ajude a conscientizar sobre a importância das bananeira
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código conforme sua necessidade.
 
 ## Contato
-Para entrar em contato, envie um e-mail para [seu.email@example.com](mailto:pinassef22@gmail.com). Ficarei feliz em receber feedback e responder a qualquer pergunta sobre o projeto.
+Para entrar em contato, envie um e-mail para (mailto:pinassef22@gmail.com). Ficarei feliz em receber feedback e responder a qualquer pergunta sobre o projeto.
 
 Agradecimentos e aproveite!
 
-[Seu Nome]
-[Seu Usuário do GitHub]
+[Costanza]
+[Costanza22]
